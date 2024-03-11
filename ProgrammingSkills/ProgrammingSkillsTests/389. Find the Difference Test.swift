@@ -11,7 +11,7 @@ import XCTest
 @testable import ProgrammingSkills
 
 final class FindTheDifference: XCTestCase {
-    func findTheDifference() {
+    func testFindTheDifference() {
         let solution = FindTheDifferenceClass()
 
         let input1 = ("abcd", "aebcd")

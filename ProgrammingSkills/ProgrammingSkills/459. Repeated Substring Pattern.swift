@@ -5,4 +5,11 @@
 //  Created by Anna Boldyreva on 11.03.2024.
 //
 
-import Foundation
+class RepeatedSubstringPatternClass {
+    func repeatedSubstringPattern(_ s: String) -> Bool {
+        var text = s + s
+        text.removeFirst()
+        text.removeLast()
+        return text.contains(s)
+    }
+}

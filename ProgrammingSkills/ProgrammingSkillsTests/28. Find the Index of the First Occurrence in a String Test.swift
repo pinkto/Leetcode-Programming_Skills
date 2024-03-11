@@ -11,7 +11,7 @@ import XCTest
 @testable import ProgrammingSkills
 
 final class FindTheIndex: XCTestCase {
-    func findTheIndex() {
+    func testFindTheIndex() {
         let solution = FindTheIndexClass()
 
         let input1 = ("abcd", "aebcd")
