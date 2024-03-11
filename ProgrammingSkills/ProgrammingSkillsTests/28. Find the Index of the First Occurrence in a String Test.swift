@@ -14,10 +14,10 @@ final class FindTheIndex: XCTestCase {
     func testFindTheIndex() {
         let solution = FindTheIndexClass()
 
-        let input1 = ("abcd", "aebcd")
+        let input1 = ("sadbutsad", "sad")
         let expectedOutput1 = 0
 
-        let input2 = ("abcd", "abcid")
+        let input2 = ("leetcode", "leeto")
         let expectedOutput2 = -1
 
         let result1 = solution.strStr(input1.0, input1.1)
