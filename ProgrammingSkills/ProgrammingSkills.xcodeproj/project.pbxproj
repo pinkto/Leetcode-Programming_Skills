@@ -34,6 +34,8 @@
 		6C258E652B9ED0A000C7694C /* 1768. Merge Strings Alternately.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6C258E5C2B9ED0A000C7694C /* 1768. Merge Strings Alternately.swift */; };
 		6C258E662B9ED0A000C7694C /* 66. Plus One.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6C258E5D2B9ED0A000C7694C /* 66. Plus One.swift */; };
 		6C258E682B9EE92E00C7694C /* 896. Monotonic Array Test.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6C258E672B9EE92E00C7694C /* 896. Monotonic Array Test.swift */; };
+		6C3605182C22C2AF00905571 /* 54. Spiral Matrix.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6C3605172C22C2AF00905571 /* 54. Spiral Matrix.swift */; };
+		6C365D3A2C22F2CB00905571 /* 54. Spiral Matrix Test.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6C365D392C22F2CB00905571 /* 54. Spiral Matrix Test.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -85,6 +87,8 @@
 		6C258E5C2B9ED0A000C7694C /* 1768. Merge Strings Alternately.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "1768. Merge Strings Alternately.swift"; sourceTree = "<group>"; };
 		6C258E5D2B9ED0A000C7694C /* 66. Plus One.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "66. Plus One.swift"; sourceTree = "<group>"; };
 		6C258E672B9EE92E00C7694C /* 896. Monotonic Array Test.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "896. Monotonic Array Test.swift"; sourceTree = "<group>"; };
+		6C3605172C22C2AF00905571 /* 54. Spiral Matrix.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "54. Spiral Matrix.swift"; sourceTree = "<group>"; };
+		6C365D392C22F2CB00905571 /* 54. Spiral Matrix Test.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "54. Spiral Matrix Test.swift"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -160,6 +164,7 @@
 				6C258E342B9ECA8E00C7694C /* 242. Valid Anagram Test.swift */,
 				6C258E392B9ECB6A00C7694C /* 1502. Can Make Arithmetic Progression From Sequence Test.swift */,
 				6C258E672B9EE92E00C7694C /* 896. Monotonic Array Test.swift */,
+				6C365D392C22F2CB00905571 /* 54. Spiral Matrix Test.swift */,
 			);
 			path = ProgrammingSkillsTests;
 			sourceTree = "<group>";
@@ -185,6 +190,7 @@
 				6C258E5B2B9ED0A000C7694C /* 283. Move Zeroes.swift */,
 				6C258E5C2B9ED0A000C7694C /* 1768. Merge Strings Alternately.swift */,
 				6C258E5D2B9ED0A000C7694C /* 66. Plus One.swift */,
+				6C3605172C22C2AF00905571 /* 54. Spiral Matrix.swift */,
 			);
 			path = Problems;
 			sourceTree = "<group>";
@@ -328,6 +334,7 @@
 				6C2571282B9EB4AE00C7694C /* ViewController.swift in Sources */,
 				6C258E5F2B9ED0A000C7694C /* 389. Find the Difference.swift in Sources */,
 				6C258E642B9ED0A000C7694C /* 283. Move Zeroes.swift in Sources */,
+				6C3605182C22C2AF00905571 /* 54. Spiral Matrix.swift in Sources */,
 				6C258E652B9ED0A000C7694C /* 1768. Merge Strings Alternately.swift in Sources */,
 				6C2571242B9EB4AE00C7694C /* AppDelegate.swift in Sources */,
 				6C2571262B9EB4AE00C7694C /* SceneDelegate.swift in Sources */,
@@ -341,6 +348,7 @@
 			files = (
 				6C25715F2B9EB93B00C7694C /* 28. Find the Index of the First Occurrence in a String Test.swift in Sources */,
 				6C2571542B9EB4C800C7694C /* 1768. Merge Strings Alternately Test.swift in Sources */,
+				6C365D3A2C22F2CB00905571 /* 54. Spiral Matrix Test.swift in Sources */,
 				6C2571682B9EC12200C7694C /* 283. Move Zeroes Test.swift in Sources */,
 				6C25715B2B9EB73E00C7694C /* 389. Find the Difference Test.swift in Sources */,
 				6C2571642B9EBAA900C7694C /* 459. Repeated Substring Pattern Test.swift in Sources */,
